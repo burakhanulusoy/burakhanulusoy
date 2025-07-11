@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hey there 👋 I'm Burak Han Ulusoy</h1>
 
 <h3 align="center">I am a third-year computer engineering student at Dumlupınar University.</h3>
 
