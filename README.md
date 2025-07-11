@@ -1,3 +1,5 @@
+<h1 align="center">Hey there 👋</h1>
+
 <h3 align="center">I am a third-year computer engineering student at Dumlupınar University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burakhanulusoy&label=Profile%20views&color=0e75b6&style=flat" alt="burakhanulusoy" /> </p>
