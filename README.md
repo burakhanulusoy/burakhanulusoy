@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burakhanulusoy&label=Profile%20views&color=0e75b6&style=flat" alt="burakhanulusoy" /> </p>
 
-- 🌱 I’m currently learning **.Net | Html-Css-Boostrap**
+- 🌱 I’m currently learning **.Net |
 
 - 💬 Ask me about **C# | MSSQL | Java | EntityFremawork | N-Layer Architecture**
 
