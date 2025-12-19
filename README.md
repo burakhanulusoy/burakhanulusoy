@@ -12,11 +12,10 @@
 
 <div align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Burak+Han;Computer+Engineering+Student+@+DPU;Passionate+about+.NET+Core+%26+Backend;Learning+Microservices+%26+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B,+I+am+Burak+Han;Computer+Engineering+Student+@DPU;Aspiring+Full+Stack+Developer" alt="Typing SVG" />
 </a>
 </div>
 
----
 <div align="center">
 
  
@@ -102,3 +101,31 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/burakhanulusoy/burakhanulusoy/output/github-contribution-grid-snake-dark.svg" alt="Dark Snake" width="100%"/>
 </div>
+
+
+
+
+<div align="center">
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=512BD4&center=true&vCenter=true&width=600&lines=Learning+today,+building+tomorrow.;Code.+Learn.+Build.+Repeat.;I+don%E2%80%99t+talk.+I+ship." alt="Typing SVG" />
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
