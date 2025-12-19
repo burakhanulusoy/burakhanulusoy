@@ -34,13 +34,17 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?username=burakhanulusoy&theme=dracula&hide_border=true" alt="Burak's Streak" />
 
 <br/><br/>
+<hr/>
 
 <p align="center">
-<p align="center">
-  <img src="https://raw.githubusercontent.com/burakhanulusoy/burakhanulusoy/output/github-contribution-grid-snake.svg" />
+  <img 
+    src="https://raw.githubusercontent.com/burakhanulusoy/burakhanulusoy/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution snake animation"
+    width="100%"
+  />
 </p>
-</p>
-</div>
+
+<hr/>
 
 ---
 
