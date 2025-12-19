@@ -5,7 +5,6 @@
 
 <p align="center">
     <a href="https://github.com/burakhanulusoy"><img src="https://img.shields.io/badge/status-active-brightgreen.svg?style=flat"></a>
-    <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/.NET-8.0-purple?style=flat&logo=dotnet"></a>
     <a href="https://github.com/burakhanulusoy?tab=followers"><img src="https://img.shields.io/github/followers/burakhanulusoy?label=Followers&style=flat&color=blue&logo=github"></a>
     <a href="https://github.com/burakhanulusoy?tab=stars"><img src="https://img.shields.io/github/stars/burakhanulusoy?label=Stars&style=flat&color=blue&logo=github"></a>
     <img src="https://komarev.com/ghpvc/?username=burakhanulusoy&label=Profile%20Views&color=0e75b6&style=flat" alt="visitors"/>
