@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/BEPb/BEPb/blob/main/src/header_.png?raw=true"/>
+  <img src=""/>
 </div>
 
 <p align="center">
