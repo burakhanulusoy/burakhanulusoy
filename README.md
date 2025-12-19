@@ -1,24 +1,80 @@
-<h1 align="center">Hey there 👋 I'm Burak Han Ulusoy</h1>
+<div align="center">
 
-<h3 align="center">I am a third-year computer engineering student at Dumlupınar University.</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2BD1FF&background=00000000&center=true&vCenter=true&width=435&lines=Hey+there!+%F0%9F%91%8B+I'm+Burak+Han;Computer+Engineering+Student;Software+Developer+%F0%9F%9A%80;.NET+%26+Backend+Enthusiast" alt="Typing SVG" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=burakhanulusoy&label=Profile%20views&color=0e75b6&style=flat" alt="burakhanulusoy" /> </p>
+<h3 align="center">I am a third-year Computer Engineering student at Dumlupınar University.</h3>
 
-- 🌱 I’m currently learning **.Net |
+<img src="https://komarev.com/ghpvc/?username=burakhanulusoy&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="burakhanulusoy" />
 
-- 💬 Ask me about **C# | MSSQL | Java | EntityFremawork | N-Layer Architecture**
+---
 
-- 📫 How to reach me **burakhanulusoy18@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/burakhanulusoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burakhanulusoy" height="30" width="40" /></a>
-<a href="https://kaggle.com/burakhanulusoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="burakhanulusoy" height="30" width="40" /></a>
-<a href="https://fb.com/burak han ulusoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="burak han ulusoy" height="30" width="40" /></a>
-<a href="https://instagram.com/burakhanulusoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="burakhanulusoy" height="30" width="40" /></a>
+- 🎓 I’m currently focusing on mastering **.NET Core & C#**.
+- 💡 Ask me about **N-Layer Architecture, Entity Framework, MSSQL, and Java**.
+- 🌱 I’m currently learning **advanced backend patterns and microservices**.
+- 📫 How to reach me: **burakhanulusoy18@gmail.com**
+
+---
+
+<div align="center">
+<h2>⚡ GitHub Stats ⚡</h2>
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=burakhanulusoy&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="Burak's Github Stats" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakhanulusoy&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?username=burakhanulusoy&theme=dracula&hide_border=true" alt="Burak's Streak" />
+
+</div>
+
+---
+
+<div align="center">
+<h2>🛠️ Languages and Tools 🛠️</h2>
+
+<p>
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+<p>
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+    <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="EF Core" />
+</p>
 
+<p>
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
 
+<p>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+<h2>🤝 Connect with me</h2>
+
+<p>
+<a href="https://linkedin.com/in/burakhanulusoy" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://kaggle.com/burakhanulusoy" target="blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" /></a>
+<a href="https://fb.com/burak.han.ulusoy" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://instagram.com/burakhanulusoy" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+<p align="right">
+  <i>Let's build something amazing together! 🚀</i>
+</p>
+</div>
