@@ -18,7 +18,7 @@
 ---
 
 <div align="center">
-<h2>⚡ GitHub Stats ⚡</h2>
+<h2>⚡ GitHub Stats & Activity ⚡</h2>
 
 <table>
   <tr>
@@ -32,6 +32,10 @@
 </table>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?username=burakhanulusoy&theme=dracula&hide_border=true" alt="Burak's Streak" />
+
+<br/><br/>
+
+<img src="https://github.com/burakhanulusoy/burakhanulusoy/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
 
 </div>
 
