@@ -1,5 +1,7 @@
 <div align="center">
- <img width="2000" height="400" alt="header_" src="https://github.com/user-attachments/assets/994f8914-d236-4910-ad70-e360ce8bf219" />
+
+![giphy](https://github.com/user-attachments/assets/ddf74ae4-285d-43b2-8e80-8e9e7c41dac0)
+
 
 </div>
 
