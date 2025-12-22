@@ -1,9 +1,6 @@
 <div align="center">
-
-![giphy](https://github.com/user-attachments/assets/ddf74ae4-285d-43b2-8e80-8e9e7c41dac0)
-
-
-</div>
+  <img src="https://github.com/user-attachments/assets/ddf74ae4-285d-43b2-8e80-8e9e7c41dac0" width="350" alt="giphy">
+</div>>
 
 <p align="center">
     <a href="https://github.com/burakhanulusoy"><img src="https://img.shields.io/badge/status-active-brightgreen.svg?style=flat"></a>
