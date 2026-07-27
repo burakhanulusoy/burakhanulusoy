@@ -1,0 +1,131 @@
+<svg width="1200" height="470" viewBox="0 0 1200 470" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="470" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070B14"/>
+      <stop offset="0.52" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#101827"/>
+    </linearGradient>
+    <linearGradient id="border" x1="80" y1="20" x2="1120" y2="450" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="0.48" stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+    <linearGradient id="title" x1="96" y1="0" x2="515" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#233047" stroke-width="0.6" opacity="0.3"/>
+    </pattern>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="panelClip">
+      <rect x="23" y="23" width="1154" height="424" rx="22"/>
+    </clipPath>
+    <style>
+      .mono { font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace; }
+      .label { fill: #64748B; font-size: 15px; font-weight: 600; letter-spacing: 0.8px; }
+      .value { fill: #DCE7F7; font-size: 15px; font-weight: 500; }
+      .ascii { fill: #22D3EE; font-size: 16px; font-weight: 700; }
+      .cursor { animation: blink 1s steps(2, start) infinite; }
+      .pulse { animation: pulse 2.8s ease-in-out infinite; transform-origin: center; }
+      .flow { stroke-dasharray: 24 18; animation: flow 8s linear infinite; }
+      .shimmer { animation: shimmer 3.2s ease-in-out infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      @keyframes pulse { 0%,100% { opacity: .65; } 50% { opacity: 1; } }
+      @keyframes flow { to { stroke-dashoffset: -168; } }
+      @keyframes shimmer { 0%,100% { opacity: .55; } 50% { opacity: 1; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="470" rx="26" fill="url(#background)"/>
+  <rect x="1.5" y="1.5" width="1197" height="467" rx="24.5" stroke="url(#border)" stroke-width="3"/>
+
+  <g clip-path="url(#panelClip)">
+    <rect x="23" y="23" width="1154" height="424" fill="url(#grid)"/>
+    <circle cx="1120" cy="64" r="180" fill="#7C3AED" opacity="0.055"/>
+    <circle cx="1040" cy="420" r="210" fill="#0891B2" opacity="0.045"/>
+    <path class="flow" d="M0 405 C215 350 325 475 570 405 C800 340 910 430 1200 352" stroke="#22D3EE" stroke-width="1.2" opacity="0.22"/>
+    <path class="flow" d="M0 425 C225 370 345 490 575 426 C825 357 950 455 1200 378" stroke="#A78BFA" stroke-width="1" opacity="0.2"/>
+  </g>
+
+  <circle cx="54" cy="49" r="6" fill="#FF5F56"/>
+  <circle cx="75" cy="49" r="6" fill="#FFBD2E"/>
+  <circle cx="96" cy="49" r="6" fill="#27C93F"/>
+  <text x="600" y="54" text-anchor="middle" class="mono" fill="#64748B" font-size="13">burakhanulusoy@github: ~</text>
+
+  <line x1="36" y1="76" x2="1164" y2="76" stroke="#263246"/>
+  <line x1="555" y1="96" x2="555" y2="418" stroke="#263246"/>
+
+  <text x="72" y="116" class="mono" fill="#64748B" font-size="14">$ whoami</text>
+  <text x="72" y="158" class="mono" fill="url(#title)" font-size="31" font-weight="800">BURAK HAN ULUSOY</text>
+  <text x="72" y="190" class="mono" fill="#94A3B8" font-size="16">.NET BACKEND DEVELOPER</text>
+
+  <g filter="url(#glow)" opacity="0.95">
+    <animateTransform attributeName="transform" type="translate" values="0 0;20 0;0 0;-10 0;0 0" keyTimes="0;0.28;0.5;0.75;1" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.72;1;0.78;1;0.72" dur="3.2s" repeatCount="indefinite"/>
+    <text x="75" y="235" class="mono ascii">██████╗ ██╗  ██╗██╗   ██╗</text>
+    <text x="75" y="258" class="mono ascii">██╔══██╗██║  ██║██║   ██║</text>
+    <text x="75" y="281" class="mono ascii">██████╔╝███████║██║   ██║</text>
+    <text x="75" y="304" class="mono ascii">██╔══██╗██╔══██║██║   ██║</text>
+    <text x="75" y="327" class="mono ascii">██████╔╝██║  ██║╚██████╔╝</text>
+    <text x="75" y="350" class="mono ascii">╚═════╝ ╚═╝  ╚═╝ ╚═════╝</text>
+  </g>
+
+  <rect x="72" y="214" width="435" height="2" rx="1" fill="#67E8F9" opacity="0.75" filter="url(#glow)">
+    <animate attributeName="y" values="214;352;214" dur="4.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.8;0" dur="4.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="72" y="380" width="425" height="36" rx="8" fill="#111A29" stroke="#29364C"/>
+  <circle cx="92" cy="398" r="5" fill="#22C55E">
+    <animate attributeName="r" values="4;6;4" dur="1.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <text x="107" y="403" class="mono" fill="#CBD5E1" font-size="13">building scalable, AI-enabled systems</text>
+  <rect x="483" y="390" width="2" height="16" fill="#22D3EE">
+    <animate attributeName="opacity" values="1;1;0;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="595" y="116" class="mono" fill="#64748B" font-size="14">$ neofetch --developer</text>
+
+  <text x="595" y="153" class="mono label">user</text>
+  <text x="740" y="153" class="mono value">burakhanulusoy</text>
+
+  <text x="595" y="187" class="mono label">role</text>
+  <text x="740" y="187" class="mono" fill="#22D3EE" font-size="15" font-weight="700">.NET Backend Developer</text>
+
+  <text x="595" y="221" class="mono label">runtime</text>
+  <text x="740" y="221" class="mono value">.NET 8 / .NET 9 · C#</text>
+
+  <text x="595" y="255" class="mono label">backend</text>
+  <text x="740" y="255" class="mono value">ASP.NET Core · Web API · MVC</text>
+
+  <text x="595" y="289" class="mono label">architecture</text>
+  <text x="740" y="289" class="mono value">CQRS · MediatR · N-Layer · UoW</text>
+
+  <text x="595" y="323" class="mono label">data</text>
+  <text x="740" y="323" class="mono value">Dapper · EF Core · SQL · NoSQL</text>
+
+  <text x="595" y="357" class="mono label">ai</text>
+  <text x="740" y="357" class="mono value">OpenAI · Gemini · Claude · ML.NET</text>
+
+  <text x="595" y="391" class="mono label">focus</text>
+  <text x="740" y="391" class="mono value">AI systems · APIs · high-volume data</text>
+
+  <g transform="translate(595 414)" class="shimmer">
+    <rect width="34" height="8" rx="4" fill="#22D3EE"/>
+    <rect x="42" width="34" height="8" rx="4" fill="#38BDF8"/>
+    <rect x="84" width="34" height="8" rx="4" fill="#6366F1"/>
+    <rect x="126" width="34" height="8" rx="4" fill="#8B5CF6"/>
+    <rect x="168" width="34" height="8" rx="4" fill="#A855F7"/>
+    <rect x="210" width="34" height="8" rx="4" fill="#EC4899"/>
+    <rect x="252" width="34" height="8" rx="4" fill="#F97316"/>
+    <rect x="294" width="34" height="8" rx="4" fill="#22C55E"/>
+  </g>
+</svg>
