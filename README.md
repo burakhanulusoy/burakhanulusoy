@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="./terminal-profile.svg" width="100%" alt="Burak Han Ulusoy — .NET Backend Developer" />
-<br />
+<img src="./terminal-profile-animated.svg" width="100%" alt="Burak Han Ulusoy — .NET Backend Developer" /><br />
 
 <a href="https://www.linkedin.com/in/burak-han-ulusoy-21378126b">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -127,9 +126,8 @@ engineering:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=burakhanulusoy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=C9D1D9&ring_color=22D3EE" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakhanulusoy&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&langs_count=8" alt="Most used languages" />
-
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=burakhanulusoy&theme=github_dark" alt="GitHub statistics" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=burakhanulusoy&theme=github_dark" alt="Repositories per language" />
 <br />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=burakhanulusoy&bg_color=0D1117&color=22D3EE&line=A78BFA&point=F8FAFC&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
