@@ -141,7 +141,6 @@ engineering:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/burakhanulusoy/burakhanulusoy/output/github-contribution-grid-snake.svg" />
   <img src="https://raw.githubusercontent.com/burakhanulusoy/burakhanulusoy/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution graph animation" />
 </picture>
-<img width="1200" height="470" alt="terminal-profile" src="https://github.com/user-attachments/assets/be6c24ff-ffc7-44a5-a10f-5d9d55fb4b49" />
 
 </div>
 
