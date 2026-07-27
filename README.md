@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="./assets/terminal-profile.svg" width="100%" alt="Burak Han Ulusoy — .NET Backend Developer" />
-
+<img src="./terminal-profile.svg" width="100%" alt="Burak Han Ulusoy — .NET Backend Developer" />
 <br />
 
 <a href="https://www.linkedin.com/in/burak-han-ulusoy-21378126b">
